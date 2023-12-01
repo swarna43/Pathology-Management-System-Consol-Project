@@ -1,0 +1,35 @@
+User name:partha
+Email :pa
+Password : 123
+
+
+User name:q
+Email :w
+Password : 123
+
+
+User name:w
+Email :gdd
+Password : 12
+
+
+User name:partha
+Email :partha
+Password : 111
+
+
+User name:w
+Email :w
+Password : 1
+
+
+User name:partha
+Email :mail
+Password : 123
+
+
+User name:p
+Email :m
+Password : 123
+
+

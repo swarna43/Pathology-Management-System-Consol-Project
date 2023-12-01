@@ -1,0 +1,97 @@
+package  Classes;
+import Interfaces.*;
+import java.lang.*;
+public class TestList
+{
+	
+	public void showTest()
+	{
+		System.out.println("                    ===========================================================");
+	    System.out.println("                    |||||||Pathology Laboratory Investigation Charges: ||||||||");
+		System.out.println("                    ===========================================================\n\n\n");
+	    System.out.println("                 =========================================================================\n\n\n");
+	System.out.println("                     ||           Name                            ||        Charge         ||");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  01. TC, DC, HB%, ESR                     ||                 320");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  02. TC DC                                ||                 180");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  03. HB%                                  ||                  180");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  04. ESR                                  ||                  150");
+	System.out.println("                     =========================================================================");
+    System.out.println("                     ||  05. PCV                                  ||                   180");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  06. MCH                                  ||                   180");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  07. Platelet                             ||                   160");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  08. RBC                                  ||                   180");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  09. Malarial Parasite (M.P)              ||                   250");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  10. Blood Film                           ||                   250");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  11. Troponin-I                           ||                   12000");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  12. Circulating Eosonophil               ||                     250");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  13. BT/CT                                ||                     250");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  14. Blood Sugar (F/R)                    ||                     250");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  15. 1 ½ / 2 hrs. ABF                     ||                     180");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  16. G.T.T. with Urine (2 samples)        ||                     250");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  17. Urea                                 ||                     350");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  18. Creatinine                           ||                    320");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  19. BUN                                  ||                    250");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  20. Uric Acid                            ||                    350");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  21. Bilirubin                            ||                    350");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  22. SGPT                                 ||                    350");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  23. SGOT                                 ||                    350");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  24. Alkaline Phosphatase                 ||                    350");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  25. S. Cholesterol                       ||                   350");
+    System.out.println("                     =========================================================================");	
+	System.out.println("                     ||  26. Serum HDL                            ||                    350");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  27. Serum LDL                            ||                    350");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  28. TG(Triglycerides)                    ||                     350");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  29. Lipid Profile                        ||                    1100");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  30. LDH                                  ||                    1100");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  31. Total Protein                        ||                     250");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  32. Albumin                              ||                     300");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  33. Globulin                             ||                     200");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  34. S.Calcium                            ||                     400");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  35. S. Electrolytes (Na, K, Cl)          ||                     650");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  36. Prothrombin time (PT)                ||                     450");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  37.Blood Group + Rh Factor               ||                     250");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  38. RA Factor                            ||                     250");	
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  39. HBs Ag (Screening)                   ||                     400");
+	System.out.println("                     =========================================================================");
+	System.out.println("                     ||  40.  HBs Ag (Confirmatory)               ||                     650");
+	System.out.println("                     =========================================================================");
+	
+	}
+}
